@@ -1,0 +1,16 @@
+html, body {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	line-height: 1.5;
+}
+
+table {
+	border-bottom: 1px solid rgb(200, 200, 200);
+	margin: 0 0 2em 0;
+	text-align: center;
+	width: 300px;
+}
+
+caption {
+	border-bottom: 1px solid rgb(200, 200, 200);
+	font-style: italic;
+}
